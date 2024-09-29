@@ -1,0 +1,22 @@
+*{
+    background-color: aliceblue;
+}
+#container{
+    display:flex;
+    flex-direction: row;
+}
+#box{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+#box2{
+    background-color: rgb(151, 203, 20);
+    height: 100px;
+    width: 100px;
+}
+#box3{
+    background-color: rgb(18, 31, 206);
+    height: 100px;
+    width: 100px;
+}
